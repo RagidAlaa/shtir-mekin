@@ -345,8 +345,7 @@ header nav ul li a:hover {
   background: rgba(0, 0, 0, 0.75);
   border-radius: 2px;
   position: absolute;
-  transition: width 550ms ease, height 550ms ease, right 550ms ease,
-    background 550ms ease;
+  transition: width 550ms ease, height 550ms ease, right 550ms ease, background 550ms ease;
   overflow: hidden;
   box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.014),
     0 6.7px 5.3px rgba(0, 0, 0, 0.02), 0 12.5px 10px rgba(0, 0, 0, 0.025),
